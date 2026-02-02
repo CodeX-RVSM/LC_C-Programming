@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    //WAP to print max between 2 num using if else
+    //WAP to print max between 2 num using if elses
     int num1,num2;
 
     printf("Enter First number :");

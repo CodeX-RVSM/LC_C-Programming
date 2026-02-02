@@ -1,19 +1,21 @@
 #include<stdio.h>
 int main()
 {
-    int value;
-    printf("Enter the Number :");
-    scanf("%d",&value);
+    int marks;
+    printf("Enter the Marks :");
+    scanf("%d",&marks);
 
-    if(value%5 ==0){
-        printf("hi");
-    }else if(value%3 ==0){
-        printf("hello");
+    if(marks>85){
+        printf("GRADE:A");
+    }else if(marks>75){
+        printf("GRADE:B");
     }
-    else if(value%3 == 0 && value%5 == 0){
-        printf("bye");
+    else if(marks>55){
+        printf("GRADE:C");
     }
-    else{
-        printf("Good Bye");
+    else if(marks>=35){
+        printf("GRADE:D");
+    }else{
+        printf("FAIL");
     }
 }

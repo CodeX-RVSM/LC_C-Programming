@@ -2,10 +2,10 @@
 
 int main(){
     char str1[20];
-    char str2[20];
+    char str2[10];
 
     int len,inc;
-    
+
     printf("Enter string 1 and string 2 :");
     scanf("%s%s",str1,str2);
 
