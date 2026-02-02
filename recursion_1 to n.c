@@ -1,9 +1,9 @@
 #include<stdio.h>
 
-int test(int a, int n){
-    printf("%d\n",a);
+int fact(int a, int n){
+    printf("%d",a);
     if(a==n){
-        return;
+        return  ;
     }
     test(++a,n);
 }
@@ -11,7 +11,7 @@ int test(int a, int n){
 int main(){
 
     int a=1,n;
-    printf("Enter one Number \n ");
+    printf("Enter one Number ");
     scanf("%d",&n);
     test(a,n);
 

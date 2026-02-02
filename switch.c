@@ -1,28 +1,24 @@
-#include <stdio.h>
+#include<stdio.h>
+int main()
+{
+    //wap to take month number from user 
+    int num ;
+    printf("Enter the month number:");
+    scanf("%d",&num);
 
-int main() {
-    int choice;
-    
-    printf("Enter a number between 1 and 4: ");
-    scanf("%d", &choice);
-    
-    switch(choice) {
-        case 1:
-            printf("You chose One.\n");
-            break;
-        case 2:
-            printf("You chose Two.\n");
-            break;
-        case 3:
-            printf("You chose Three.\n");
-            break;
-        case 4:
-            printf("You chose Four.\n");
-            break;
-        default:
-            printf("Invalid choice! Please enter a number between 1 and 4.\n");
-            break;
+    switch(num){
+        case 1:{printf("Jan");break;}
+        case 2:{printf("Feb");break;}
+        case 3:{printf("Mar");break;}
+        case 4:{printf("Apr");break;}
+        case 5:{printf("May");break;}
+        case 6:{printf("June");break;}
+        case 7:{printf("July");break;}
+        case 8:{printf("Aug");break;}
+        case 9:{printf("Sep");break;}
+        case 10:{printf("Oct");break;}
+        case 11:{printf("Nov");break;}
+        case 12:{printf("Dec");break;}
+        default:{printf("Invalid Input");}
     }
-    
-    return 0;
 }

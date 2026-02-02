@@ -1,0 +1,20 @@
+Time Complexity -
+Time complexity measures how fast an algorithm runs, based on the size of the input.
+Notation Name Example
+O(1)         Constant Accessing an array element: arr[5]
+O(log n) Logarithmic Binary search
+O(n)         Linear         Loop through array(linear Search)
+O(n log n) Linearithmic Merge sort, Quick sort (avg)
+O(n²)         Quadratic Nested loops (e.g., bubble sort)
+O(2ⁿ)         Exponential Recursive Fibonacci (naive)
+O(n!)         Factorial Generating all permutations
+-------------------------------------------------------------------------------------------
+Space complexity -
+Amount of space taken by algorithm as function of input size(n);
+int arr[5]
+int sqrarr[5]
+Space complexity measures how much extra memory an algorithm uses relative to input size.
+Notation Example
+O(1)         Swapping two values,sum of all numbers from array
+O(n)         Copying an array, store sqaure of array in another array
+O(n²)         2D matrix storage
