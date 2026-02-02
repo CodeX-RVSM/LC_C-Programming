@@ -1,0 +1,28 @@
+javascript - variable - let var const
+
+datatypes
+typecasting 
+function
+string
+array
+object
+inbuilt math, date functions 
+
+** es6 Features **
+destructuring of an array and object 
+modules
+arrow function
+classes and constructor
+rest and spread opeartor
+template literals
+async js- callback hell,promises ,async await
+
+** React-JS **
+HTML,CSS,JS	-	multiple pages 			-multiple DOM
+
+ReactJS 	- 	single page application		-
+
+
+
+
+* named export ad default export *

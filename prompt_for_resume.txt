@@ -1,0 +1,28 @@
+I want you to create a professional resume for me. 
+Here are my details:
+
+1. Full Name: [Rushikesh Mangalkar]  
+2. Contact Information: [9579368461 | rushikeshmangalkar023@gmail.com | https://www.linkedin.com/in/rushikesh-mangalkar-789634290/ | https://github.com/CodeX-RVSM]  
+3. Career Objective: Seeking a responsible position in an organization, which gives me a chance to improve knowledge, enhance my skills and enable me to strive towards the overall development of the organization.  
+4. Education: 
+   - Sinhgad Institute of Technology & Science
+B.E. - Computer Science & Engineering 
+   - Indirabai lalwani sec. & Higher Sec. School Jamner pura , jamner 12th|Nashik 
+5. Skills: Procedural language: C Programming
+Object Oriented Programming: C++ Programming, Python
+Virtual Machine based Programming: Java Programming
+6. Work Experience / Internships: 
+   - Company Name : KasNet Technologies & Pvt Ltd, Pune, Maharashtra
+Doman Knowledge : Microsoft Azure Services (AZ-900)
+Responsiilities :
+ Worked on cloud-based solutions using Microsoft Azure services.
+ Assisted in developing IT projects integrating Azure and Power BI.
+ Gained hands-on experience with cloud fundamentals and business intelligence tools.
+ Completed Microsoft certifications (AZ-900).
+7. Projects: 
+   - Developed an interactive Power BI dashboard for a Pizza business to analyze sales, revenue, and customer behavior.  
+8. Certifications: Microsoft Certified: Azure Fundamentals 
+9. Achievements & Extracurriculars: NSS Volunteer ,Event Coordinator
+
+
+Format the resume in a **modern, clean, ATS-friendly style** with proper sections, bullet points, and professional wording. Highlight keywords for my skills and achievements.
